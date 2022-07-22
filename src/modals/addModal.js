@@ -30,7 +30,7 @@ module.exports = {
 
         const config = require('../config/' + modal.guildId)
         const linkie = parseInt(modal.getSelectMenuValues('addModalLinkieInput'))
-        const label = modal.getSelectMenuValues('addModalLabelInput')
+        const label = modal.getTextInputValue('addModalLabelInput')
         const url = modal.getTextInputValue('addModalURLInput')
 
         if (alreadyExists(config, linkie, label, url)) {
@@ -59,7 +59,7 @@ module.exports = {
             const success = new MessageEmbed()
                 .setTitle('Link added')
                 .setColor('GREEN')
-                .setDescription(`Link **${label}** added successfully to **${linkie.name}**`)
+                .setDescription(`Link **${label}** added successfully to **${config.linkies[linkie].name}**`)
                 .setFooter({ text: 'Powered by linkie.gg', iconURL: 'https://i.imgur.com/J5ymdbf.png'})
 
             modal.reply({ text: " ", embeds: [success], ephemeral: true })

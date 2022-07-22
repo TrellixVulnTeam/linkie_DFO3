@@ -8,7 +8,7 @@ module.exports = {
 		.setDescription('Creates a new linkie')
         .addStringOption(name =>
             name.setName('name')
-                    .setDescription('Name of the new linkie')
+                    .setDescription('Name of the new Linkie')
                     .setRequired(true)),
                     
 	async execute(interaction) {
