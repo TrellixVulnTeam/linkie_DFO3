@@ -1,1 +1,7 @@
-<img src="https://i.imgur.com/SZej4wV.png" height="124" style="border-radius: 8px;">
+<img src="https://i.imgur.com/WAd1kKM.png" height="124" style="border-radius: 8px;">
+<div>
+  <a href="https://discord.gg/FBfWyvajcK"><img src="https://img.shields.io/discord/987521766291304528?label=discord&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/cxgdev/linkie/contributors"><img src="https://img.shields.io/github/contributors/cxgdev/linkie?logo=github"></a>
+  <a href="https://discord.gg"><img src="https://img.shields.io/github/license/cxgdev/linkie"></a>
+  <a href="https://discord.gg"><img src="https://img.shields.io/github/issues/cxgdev/linkie?logo=github"></a>
+</div>
