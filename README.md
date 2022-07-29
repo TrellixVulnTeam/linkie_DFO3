@@ -12,5 +12,12 @@ Linkie is a utility bot to make your links look modern using buttons and rich em
 ## Documentation
 The documentation for Linkie is available at https://linkie.cxgdev.com.
 
+## Issue / Bug Reporting
+If you find an issue, please report it to me in the Issues tab on GitHub. Or, you can report it on our [Discord server](https://discord.gg/FBfWyvajcK).
+> **Note:** I do prefer GitHub.
+
+## Think Linkie's missing something?
+Create a pull request with the new addition you've created! Make sure to explain what it does, though.
+
 ## Changelogs
 None, first version.
