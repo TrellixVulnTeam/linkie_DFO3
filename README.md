@@ -5,9 +5,11 @@
   <img src="https://img.shields.io/github/license/cxgdev/linkie">
   <a href="https://github.com/cxgdev/linkie/issues"><img src="https://img.shields.io/github/issues/cxgdev/linkie?logo=github"></a>
 </div>
-
-# 
+<br>
 Linkie is a utility bot to make your links look modern using buttons and rich embeds.
+
+## Servers using Linkie
+*None yet! DM me on Discord to get your server added here!*
 
 ## Documentation
 The documentation for Linkie is available at https://linkie.cxgdev.com.
