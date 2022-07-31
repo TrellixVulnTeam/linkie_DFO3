@@ -8,6 +8,7 @@ To create your first Linkie, run the command `/new [name]` in any channel.
 
 #### Possible Errors
 
-| **Linkie Exists** | This error occurs when the name you entered in the `name` option matches one of a created Linkie.                                                              |
-|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Too Long**      | This error occurs when the name you typed in the `name` option has too many characters in it. The maximum amount of characters you can have in the name is 50. |
+| Error | Description | How to Fix |
+| :---  | :--- | :--- |
+| Linkie Exists | `name` option matches the name of another Linkie | Input a different `name` |
+| Too Long | `name` option has too many characters | Shorten the `name` option |
