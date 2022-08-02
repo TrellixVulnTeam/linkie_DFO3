@@ -15,9 +15,3 @@ This error occurs when the label you typed in the `label` option and/or the URL 
 
 ##### 2. Invalid URL
 This error occurs when the link you typed in the `URL` option is either A: Not a valid URL (Meaning it doesn't contain https:// or http://), or B: The link you put contains too many characters (Max 200 characters).
-
-## Example
-<video width="50%" autoplay loop resizable>
-  <source src="../assets/previews/add.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
