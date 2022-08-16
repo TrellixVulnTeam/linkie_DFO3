@@ -1,13 +1,14 @@
-<img src="https://i.imgur.com/WAd1kKM.png" height="124">
-<div>
-  <a href="https://discord.gg/FBfWyvajcK"><img src="https://img.shields.io/discord/987521766291304528?label=discord&logo=discord&logoColor=white&color=%235865F2"></a>
-  <a href="https://github.com/cxgdev/linkie/contributors"><img src="https://img.shields.io/github/contributors/cxgdev/linkie?logo=github"></a>
+<div align="center">
+  <img src="https://i.imgur.com/WAd1kKM.png" width="75%">
+  <div>
+    <a href="https://discord.gg/FBfWyvajcK"><img src="https://img.shields.io/discord/987521766291304528?label=discord&logo=discord&logoColor=white&color=%235865F2"></a>
+    <a href="https://github.com/cxgdev/linkie/contributors"><img src="https://img.shields.io/github/contributors/cxgdev/linkie?logo=github"></a>
     <img src="https://img.shields.io/github/license/cxgdev/linkie">
-  <a href="https://github.com/cxgdev/linkie/issues"><img src="https://img.shields.io/github/issues/cxgdev/linkie?logo=github"></a>
+    <a href="https://github.com/cxgdev/linkie/issues"><img src="https://img.shields.io/github/issues/cxgdev/linkie?logo=github"></a>
+    <a href="https://github.com/cxgdev/linkie/releases/latest"><img src="https://img.shields.io/github/v/release/cxgdev/linkie?logo=GitHub"></a>
+  </div>
+  <br>
 </div>
-<br>
-<p>Linkie is a utility bot to make your links look modern using buttons and rich embeds.</p>
-<br>
 
 ## Servers using Linkie
 *None yet! DM me on Discord to get your server added here!*
